@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dialog:plus:4.1.3.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/149e8b9d0d517d181e0b3d4e4ff14893/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/149e8b9d0d517d181e0b3d4e4ff14893/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dialog/plus/4.1.3.3/1e547b6a70b865e693ab588c5c4adf028c0f7a9e/plus-4.1.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
